@@ -126,7 +126,7 @@ header{
     width: 100%;
 }
 .hero__img{
-    background-color: var(--brand);
+    background-color: var(--light);
     width: 500px;
     margin-right: 150px;
     transition: .5s;
